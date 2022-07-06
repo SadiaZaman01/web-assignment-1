@@ -39,3 +39,61 @@
   padding: 15px 32px;
   border-radius: 10px;
 }
+
+.donate-today {
+  padding-top: 100px;
+  text-align: center;
+}
+
+.donate-sec h1 {
+  font-weight: 900;
+  font-size: 40px;
+}
+
+.donate-sec p {
+  width: 50%;
+  padding-left: 25%;
+  padding-top: 20px;
+  padding-bottom: 5%;
+  color: rgb(121, 120, 120);
+}
+
+.money-sec {
+  display: flex;
+  padding-left: 25%;
+  padding-bottom: 5%;
+}
+.money-sec h1 {
+  color: rgb(88, 86, 86);
+  background-color: rgba(187, 187, 187, 0.212);
+  height: 70px;
+  width: 130px;
+  margin: 10px;
+  padding-top: 40px;
+  border-radius: 5%;
+}
+
+#bordercolor {
+  color: cadetblue;
+  border: 2px solid cadetblue;
+}
+
+input {
+  border: none;
+  border-bottom: 2px solid rgba(88, 86, 86, 0.26);
+  width: 50%;
+  text-align: center;
+  padding-bottom: 15px;
+  font-size: 15px;
+}
+.input-sec {
+  padding-bottom: 30px;
+}
+
+.linkbutton {
+  text-decoration: none;
+  color: whitesmoke;
+  background-color: cadetblue;
+  padding: 15px 32px;
+  border-radius: 10px;
+}
