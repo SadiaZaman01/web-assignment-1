@@ -43,6 +43,7 @@
 .donate-today {
   padding-top: 100px;
   text-align: center;
+  padding-bottom: 100px;
 }
 
 .donate-sec h1 {
@@ -94,6 +95,80 @@ input {
   text-decoration: none;
   color: whitesmoke;
   background-color: cadetblue;
+  padding: 15px 32px;
+  border-radius: 10px;
+}
+
+.plan-heading {
+  text-align: center;
+}
+
+.donate-plan {
+  padding-bottom: 100px;
+}
+
+.plan-card {
+  display: flex;
+  text-align: left;
+  padding: 5px 150px;
+}
+
+.card-1 {
+  width: 50%;
+  margin-left: 2%;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 25px;
+  border-radius: 5px;
+}
+#card-1-color {
+  background-color: rgba(222, 184, 135, 0.158);
+}
+#card-2-color {
+  background-color: rgba(135, 222, 218, 0.13);
+}
+#card-3-color {
+  background-color: rgba(189, 118, 230, 0.158);
+}
+.card-1 img {
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+.card-1 h3 {
+  padding-bottom: 30px;
+}
+.mission {
+  padding-bottom: 100px;
+}
+.mission-com {
+  display: flex;
+}
+
+.mission-body {
+  color: rgb(15, 15, 14);
+  background-color: rgba(150, 97, 180, 0.24);
+  height: 340px;
+}
+.mission-left-sec {
+  padding-top: 5%;
+  padding-left: 80px;
+}
+
+.mission-left-sec h1 {
+  font-size: 40px;
+  padding-bottom: 30px;
+}
+
+.mission-left-sec p {
+  padding-bottom: 40px;
+  padding-right: 90px;
+}
+
+.mission-button {
+  text-decoration: none;
+  color: whitesmoke;
+  background-color: rgb(98, 158, 135);
   padding: 15px 32px;
   border-radius: 10px;
 }
